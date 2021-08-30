@@ -3,6 +3,10 @@ body {
   font-family: monospace;
 }
 
+p {
+  text-align: center;
+}
+
 #toy-header {
   display: flex;
   justify-content: center;
